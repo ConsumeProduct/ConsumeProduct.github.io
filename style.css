@@ -1,0 +1,49 @@
+body {
+	background-color: black;
+	color: white; 
+}
+h1 {
+	text-align: center;
+}	
+.jumbotron	{
+	color: green; 
+	text-align: center; 
+}
+img{
+	float: right;
+}
+.clearfix	{
+  overflow: auto;
+  border: 3px solid #4CAF50;
+  padding: 5px;
+	color: green; 
+	clear:right;
+}
+.OUC-descriptions	{
+	font-size: 35px;
+}
+
+a.Lenbutton:link, a.Lenbutton:visited {
+  background-color: green;
+  color: black;
+  padding: 3px 4px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+}
+
+a.Lenbutton:hover, a.Lenbutton:active {
+  background-color: green;
+}
+a.CPDSLbutton:link, a.CPDSLbutton:visited {
+  background-color: green;
+  color: white;
+  padding: 7px 18px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+}
+
+a.CPDSLbutton:hover, a.CPDSLbutton:active {
+  background-color: green;
+}
